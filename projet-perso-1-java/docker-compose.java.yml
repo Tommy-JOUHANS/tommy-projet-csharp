@@ -1,0 +1,6 @@
+services:
+  lookandsay-java:
+    build:
+      context: .
+      dockerfile: Dockerfile.java
+    container_name: look_and_say_java
