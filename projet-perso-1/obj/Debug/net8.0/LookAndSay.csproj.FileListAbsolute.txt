@@ -1,0 +1,14 @@
+/home/tommy/tommy-projet-csharp/projet-perso-1/bin/Debug/net8.0/LookAndSay
+/home/tommy/tommy-projet-csharp/projet-perso-1/bin/Debug/net8.0/LookAndSay.deps.json
+/home/tommy/tommy-projet-csharp/projet-perso-1/bin/Debug/net8.0/LookAndSay.runtimeconfig.json
+/home/tommy/tommy-projet-csharp/projet-perso-1/bin/Debug/net8.0/LookAndSay.dll
+/home/tommy/tommy-projet-csharp/projet-perso-1/bin/Debug/net8.0/LookAndSay.pdb
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/LookAndSay.GeneratedMSBuildEditorConfig.editorconfig
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/LookAndSay.AssemblyInfoInputs.cache
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/LookAndSay.AssemblyInfo.cs
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/LookAndSay.csproj.CoreCompileInputs.cache
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/LookAndSay.dll
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/refint/LookAndSay.dll
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/LookAndSay.pdb
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/LookAndSay.genruntimeconfig.cache
+/home/tommy/tommy-projet-csharp/projet-perso-1/obj/Debug/net8.0/ref/LookAndSay.dll
